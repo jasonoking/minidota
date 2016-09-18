@@ -1,2 +1,2 @@
-minidota dev
+minidota
 ========
